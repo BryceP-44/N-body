@@ -4,4 +4,4 @@ The turtle library is used for graphics. The next version will be vectorized and
 
 This can also be used in higher dimensions for an artificial intelligence.
 
-![Silverbox](https://github.com/BryceP-44/silverbox/blob/main/Screenshot%202022-01-31%20001137.png)
+![Silverbox](https://github.com/BryceP-44/N-body/blob/2.5/Screenshot%202022-01-31%20153334.png)
